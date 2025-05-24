@@ -116,7 +116,7 @@ You will need to provide power to the Motor Hat. Please make sure the color of t
 - Red is attqached to terminal **`5-12V`**
 - Black is **`GND`**
 
-## Powerin up the Raspberry Pi
+## Powering up the Raspberry Pi
 
 Before you power up the Raspberry Pi you need to
 - insert the flash drive into one of the two blue USB connectors
@@ -143,7 +143,7 @@ Thonny is the default Python programming editor on Raspberry Pi.
 
 ### Calibrate
 
-Since you don't know which flash drive goes to which mrArm you will need to let calibrate the the motors. 
+Since you don't know which flash drive goes to which mrArm you will need to calibrate the the motors. 
 
 Load and run `Zero.py`
 
@@ -223,9 +223,9 @@ Sometimes the gamepad requires a reset. You unplug and replug it before running 
 For the game to be fair, the needle as well as a part of the balloon needs to touch a finger piece of the gripper.
 
 - A good game lasts about 1 minute
-- Poppin a ballon is one point
+- Popping a ballon is one point
 - Keeping your own ballon not being popped is one point
-- Popping all balloons of the opposing team before the one minute mark gives one point for every 10 seocnds rmaining time.
-- If there is a tie you play until one ballon is popped.
-- When your balloon is popped, the referee should diable your needle with a piece of tape.
+- Popping all balloons of the opposing team before the one minute mark gives one point for every 10 seconds remaining time.
+- If there is a tie, you play until one ballon is popped.
+- When your balloon is popped, the referee should disable your needle with a piece of tape.
 
