@@ -3,66 +3,35 @@
 ## BME Sophomore Design Course
 
 
-<div style="display: flex; align-items: flex-start; gap: 0rem;">
+In our BME sophomore design course we build robots and create games.
+This year’s game was <a href="https://sites.google.com/email.arizona.edu/bme210/design-competition/competition-2025" target="_blank" rel="noopener"> Popper</a> and we want you to play it too.
 
-  <table style="width: 60%; border-collapse: collapse; border: none;">
-    <tr>
-      <td style="vertical-align: bottom; padding: 0.5rem; border: none;">
-        <p>
-          In our BME sophomore design course we build robots and create games.
-          <br>
-          This year’s game was
-          <a href="https://sites.google.com/email.arizona.edu/bme210/design-competition/competition-2025"
-             target="_blank" rel="noopener">
-            Popper
-          </a>
-          and we want you to play it too.
-        </p>
-        <p>
-          <a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger"
-            target="_blank" rel="noopener">
-            <img
-              src="https://bme.engineering.arizona.edu/sites/default/files/styles/az_medium/public/2024-08/Urs-Utzinger.png.webp?itok=5oJljHrV"
-              alt="Urs Utzinger"
-              style="height: 100;"
-            />
-          </a>
-          <br>
-          <a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger"
-            target="_blank" rel="noopener">
-            BME210 Instructor: Urs Utzinger
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+<a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger" target="_blank" rel="noopener"> 
+  <img
+    src="https://bme.engineering.arizona.edu/sites/default/files/styles/az_medium/public/2024-08/Urs-Utzinger.png.webp?itok=5oJljHrV"
+    alt="Urs Utzinger"
+    width="100"
+  /> </a> <a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger" target="_blank" rel="noopener">
+  BME210 Instructor: Urs Utzinger
+</a>
 
-  <table style="border-collapse: collapse; border: none;">
-    <tr style="vertical-align: bottom;">
-      <!-- Popper card -->
-      <td style="padding: 0.5rem; text-align: bottom; border: none;">
-        <a href="https://youtu.be/0OsqLDplr2M" target="_blank" rel="noopener">
-          <img
-            src="https://i.ytimg.com/vi/0OsqLDplr2M/hqdefault.jpg"
-            alt="Popper Teaser"
-            style="height: 200;"
-          />
-        </a>
-        <br>
-        <a href="https://youtu.be/0OsqLDplr2M" target="_blank" rel="noopener">
-          Popper
-        </a>
-      </td>
-    </tr>
-  </table>
+## Teaser
+<a href="https://youtu.be/0OsqLDplr2M" target="_blank" rel="noopener">
+  <img
+    src="https://i.ytimg.com/vi/0OsqLDplr2M/hqdefault.jpg"
+    alt="Popper Teaser"
+    width="600"
+  /> </a> <a href="https://youtu.be/0OsqLDplr2M" target="_blank" rel="noopener"> 
+  Popper
+</a>
 
-</div>
-
+## BME 210
 BME210 is the first BME specific design course for engineering students. Their first general desing course is ENG 102. Some high schools offer ENG 102.
 
 You can checkout the BME courses in the [UA Catalog](https://catalog.arizona.edu/courses?subjectCode=BME&page=1&cq=&sortBy=code).
 
 We also have public website for [BME 210](https://sites.google.com/email.arizona.edu/bme210).
+
 
 ## Setting up the Experience
 
