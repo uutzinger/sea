@@ -18,18 +18,21 @@
           </a>
           and we want you to play it too.
         </p>
-        <a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger"
-           target="_blank" rel="noopener">
-          <img
-            src="https://bme.engineering.arizona.edu/sites/default/files/styles/az_medium/public/2024-08/Urs-Utzinger.png.webp?itok=5oJljHrV"
-            alt="Urs Utzinger"
-            style="height: 100;"
-          />
-        </a>
-        <a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger"
-           target="_blank" rel="noopener">
-          BME210 Instructor: Urs Utzinger
-        </a>
+        <p>
+          <a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger"
+            target="_blank" rel="noopener">
+            <img
+              src="https://bme.engineering.arizona.edu/sites/default/files/styles/az_medium/public/2024-08/Urs-Utzinger.png.webp?itok=5oJljHrV"
+              alt="Urs Utzinger"
+              style="height: 100;"
+            />
+          </a>
+          <br>
+          <a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger"
+            target="_blank" rel="noopener">
+            BME210 Instructor: Urs Utzinger
+          </a>
+        </p>
       </td>
     </tr>
   </table>
