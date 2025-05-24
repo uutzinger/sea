@@ -202,7 +202,7 @@ Load the controller program.
   <img
     src="assets/Loading_Controller.png"
     alt="Setup"
-    height="300px" 
+    width="600px" 
   />
 
 Now you can play with the meArm uing the gamepad and the keyboard.
@@ -210,7 +210,7 @@ Now you can play with the meArm uing the gamepad and the keyboard.
   <img
     src="assets/Controller.png"
     alt="Setup"
-    height="300px" 
+    width="600px" 
   />
 
 Once the program is running you can disconnect the monitor.
