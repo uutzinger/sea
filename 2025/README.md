@@ -1,151 +1,227 @@
-# SEA2025
+# SEA2025 BME
 
-In our BME sophomore design course we build robots and create games.
-This years game was [Popper](https://sites.google.com/email.arizona.edu/bme210/design-competition/competition-2025) ) and we want you to play it too.
+## BME Sophomore Design Course
 
-<a href="https://youtu.be/0OsqLDplr2M" target="_blank" rel="noopener">
 
-<img
-  src="https://i.ytimg.com/vi/0OsqLDplr2M/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBxgiAAtAFigIMCAAQARhyIE4oPjAP&rs=AOn4CLCHvjWFWxwqxY2jWGd394sL_NwQUQ"
-  />
-</a>
+<div style="display: flex; align-items: flex-start; gap: 0rem;">
 
-<a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger" target="_blank" rel="noopener">
-  <img
-    src="https://bme.engineering.arizona.edu/sites/default/files/styles/az_medium/public/2024-08/Urs-Utzinger.png.webp?itok=5oJljHrV"
-    alt="Urs Utzinger"
-    height="150px" 
-  />
-</a>
+  <table style="width: 60%; border-collapse: collapse; border: none;">
+    <tr>
+      <td style="vertical-align: bottom; padding: 0.5rem; border: none;">
+        <p>
+          In our BME sophomore design course we build robots and create games.
+          <br>
+          This year’s game was
+          <a href="https://sites.google.com/email.arizona.edu/bme210/design-competition/competition-2025"
+             target="_blank" rel="noopener">
+            Popper
+          </a>
+          and we want you to play it too.
+        </p>
+        <a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger"
+           target="_blank" rel="noopener">
+          <img
+            src="https://bme.engineering.arizona.edu/sites/default/files/styles/az_medium/public/2024-08/Urs-Utzinger.png.webp?itok=5oJljHrV"
+            alt="Urs Utzinger"
+            style="height: 100;"
+          />
+        </a>
+        <a href="https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger"
+           target="_blank" rel="noopener">
+          BME210 Instructor: Urs Utzinger
+        </a>
+      </td>
+    </tr>
+  </table>
 
-[Urs Utzinger](https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger)
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="vertical-align: bottom;">
+      <!-- Popper card -->
+      <td style="padding: 0.5rem; text-align: bottom; border: none;">
+        <a href="https://youtu.be/0OsqLDplr2M" target="_blank" rel="noopener">
+          <img
+            src="https://i.ytimg.com/vi/0OsqLDplr2M/hqdefault.jpg"
+            alt="Popper Teaser"
+            style="height: 200;"
+          />
+        </a>
+        <br>
+        <a href="https://youtu.be/0OsqLDplr2M" target="_blank" rel="noopener">
+          Popper
+        </a>
+      </td>
+    </tr>
+  </table>
 
-## Requirements
+</div>
+
+BME210 is the first BME specific design course for engineering students. Their first general desing course is ENG 102. Some high schools offer ENG 102.
+
+You can checkout the BME courses in the [UA Catalog](https://catalog.arizona.edu/courses?subjectCode=BME&page=1&cq=&sortBy=code).
+
+We also have public website for [BME 210](https://sites.google.com/email.arizona.edu/bme210).
+
+## Setting up the Experience
 
 ### Infrastructure
 
-- Each team needs at least one `monitor`, `keyboard` and `mouse`.
-- Each meArm needs `two power outlets`
-- To play the game you need a `desk` where you can setup your meArms
-- Each meArm needs either a keyboard or gamepad (preferred)
+- Each team needs at least one **`monitor`**, **`keyboard`** and **`mouse`**
+- A team consists of 1-3 players
+- Each players uses one meArm 
+- The meArm needs **`two power outlets`**
+- The game is played on a flat surface such as a **`desk`**
+- Each meArm needs either a **`keyboard`** or **`gamepad`** (preferred) to controll it
 - If you use a gamepad, it needs to be connected through USB cable (bluetooth is not supported)
+- Once the meArm is running the monitor and mouse are no longer needed and an other team member can use them to setup a meArm. If they player uses a gamepad, the keyboard can also be passed on to an other player to setup.
+
+At the University of Arizona, the Salter laboratory works well for this but the design class rooms in HSIB building might work also given power distributors are made available.
 
 ### Parts
 
-  <img
-    src="assets/meArm_Setup_annotated.png"
-    alt="Setup"
-    height="300px" 
-  />
+<img
+  src="assets/meArm_Setup_annotated.png"
+  alt="Setup"
+  height="500px" 
+/>
 
 
-| Product      | Number   | Description | Location  |
+| Product      | Number <br> in image above  | Description | Source  |
 |--------------|----------|-------------|-----------|
-| **Joystick**   | 1      | Lightweight, 13" display   | Bring your own |
-| **Raspberry Pi**   | 2  | Lightweight, 13" display   | Bring your own |
-| **Motor Hat** | 3       | 6.1" OLED, 128 GB storage      | $699   |
-| **Power RasPi** | 4     | Noise-cancelling over-ear       | $199   |
-| **Power Motors**  | 5   | | | |
-| **Flash Drive**  | 6   | | | |
-| **HDMI Monitor Interface**  | 7   | | | |
-| **meArm**  | 8   | | | |
-| **Balloons** |
-| **Needles** |
-| Tape |
-| Hot Glue | 
-| Rubber Bands |
+| **Joystick**   | 1      | Sony Style Game Pad | Bring your own |
+| **Raspberry Pi**   | 2  | Raspberry Pi 4  | Salter Lab (BME 210)|
+| **Motor Hat** | 3       | Motor Controller | Salter Lab (BME 210)|
+| **Power RasPi** | 4     | 3-4 A USB Power Supply | Salter Lab (BME 210)|
+| **Power Motors**  | 5   | 1-2A USB Power Supply | Salter Lab (BME 210)|
+| **Flash Drive**  | 6   | Raspian OS with all programs installed| Salter lab (BME 210)|
+| **HDMI Monitor Interface**  | 7   | Miro HDMI to Regular HDMI | Salter Lab (BME 210)|
+| **meArm**  | 8   | Pre Built MeArm | Salter Lab (BME 210) |
+| **Balloons** | not shown | Small inflatable balloons | [Amazon](https://a.co/d/h41R9b4) |
+| **Needles** | not shown | T Pins | [Amazon](https://a.co/d/27yMVBo)
+| **Tape** | not shown | any kind | |
+| **Hot Glue** | not shown | Hot glue gun with glue | Salter lab | 
+| **Rubber Bands** | not shown | any kind, about 2" | |
 
 ## Connecting the Hardware
+The meArm costs of 4 motors:
+- base
+- shoulder
+- elbow
+- gripper
+
+<img
+  src="assets/meArm_annotated.png"
+  alt="Setup"
+  width="600px"
+/>
 
 The motor cables need to be attached to the motor hat. The order and orientation matters.
 
-  <img
-    src="assets/Cable_Connection.png"
-    alt="Setup"
-    height="300px" 
-  />
+<img
+  src="assets/Cable_Connection.png"
+  alt="Motor Cables"
+  width="600px"
+/>
 
-- Black or brown is GND [G]
-- Orange or white is Signal [S]
+The cable has 3 wires with the following colors on either side:
+
+- Black or brown is GND [G on PCB]
+- Orange or white is Signal [S on PCB]
 
 There are three motors
-- Base connects to slot 0
-- Shoulder connects to slot 1
-- Elbow connects to slot 14
-- Gripper connects to slot 15
+- Base connects to slot **`#0`**
+- Shoulder connects to slot **`#1`**
+- Elbow connects to slot **`#14`**
+- Gripper connects to slot **`#15`**
 
 You will need to provide power to the Motor Hat. Please make sure the color of the cables matches this picture
 
-  <img
-    src="assets/Power_Connection.png"
-    alt="Setup"
-    height="300px" 
-  />
+<img
+  src="assets/Power_Connection.png"
+  alt="Power Cables"
+  width="600px"
+/>
 
-- Red is 5-12V
-- Black is Ground/GND
+- Red is attqached to terminal **`5-12V`**
+- Black is **`GND`**
 
 ## Powerin up the Raspberry Pi
 
 Before you power up the Raspberry Pi you need to
 - insert the flash drive into one of the two blue USB connectors
-- `DO NOT REMOVE THE DRIVE WHILE THE Raspberry Pi IS POWERD ON`
-- You can connect the monitor to the HDMI connector cable [7]
-- You can attach mouse and keyboard USB cable
+- `DO NOT REMOVE THE DRIVE WHILE THE Raspberry Pi IS POWERD ON` this would be equivalent of removing the engine of your car while driving on the highway.
+
+You can connect the Montiro, Keyboard, Mouse and Gamepad before or after you power up the Raspberry Pi.
+- You should connect the monitor to the HDMI connector cable [item 7]
+- You can attach mouse and keyboard USB cable to one of the black USB ports
+- You can attach game pad to one of the black USB ports
 
 ## Starting the Software
 
-The Raspberry Pi will boot into the desktop. To start your meArm you will need run the calibration program `Zero.py` and then you can run the control programm `Controller.py`
+The Raspberry Pi will boot into the desktop. To start your meArm you will need to run the calibration program `Zero.py` and then you can run the control program `Controller.py`
 
-Start Thonny
+### Start Thonny
+
+Thonny is the default Python programming editor on Raspberry Pi.
 
   <img
     src="assets/Open_Thonny.png"
     alt="Setup"
-    height="300px" 
+    width="600px" 
   />
 
 ### Calibrate
+
+Since you don't know which flash drive goes to which mrArm you will need to let calibrate the the motors. 
 
 Load and run `Zero.py`
 
   <img
     src="assets/Loading_Zero.png"
     alt="Load Zero"
-    height="300px" 
+    width="600px" 
   />
 
   <img
     src="assets/Running_Zero.png"
     alt="Run Zero"
-    height="300px" 
+    width="600px" 
   />
+
+Now the main display for Zero will appear.
 
   <img
     src="assets/Zero.png"
     alt="Zero Screen"
-    height="300px" 
+    width="600px" 
   />
 
 With all motors running you will want to align them so that 
 
 - The meArm points straight forward (base) 
-- The shoulder of the meArm (fist segment) points straight up
-- The elbow of the meArm (second segment) is horizontal
+- The shoulder of the meArm (fist arm segment) points straight up
+- The elbow of the meArm (second aem segment) is horizontal
 - The gripper is closed (do not force it beyond the two finger touching each other)
+
+**Do not force the motors beyond the pysical limits of the meArm, they will get hot and burn out.**
+
+**You might need similar values as shown in the image above.**
 
 The instructions tell you which keys on the keyboard will move which motors.
 Once you are satisfied with the alignment you close the window with the `X` and the calibration is saved.
 
-If you click on window other than meArm Calibration, the program will no longer read the input.
+If you click on a window other than meArm Calibration, the program will no longer read the keyboard input.
+
+You can not use the gamepad and need to use the keyboard for this operation. 
 
 ## Attaching Needle and Balloons
 
-The balloons can be inflated with compressed air hose or with your lung.
+The balloons can be inflated with the compressed air hose in the Salterlab. Othewise you need to use your own means.
 
-You can use tape or elastic bands to attach them
+You can use tape or elastic bands to attach them to the meArm.
 
 The needles can be attached or fixed with hot glue.
+
+For a fair game, one part of the balloon and the needle need to touch the wood of one finger of the gripper.
 
 ## Playing the Game
 
@@ -157,7 +233,7 @@ Load the controller program.
     height="300px" 
   />
 
-Now you can play with the meArm. 
+Now you can play with the meArm uing the gamepad and the keyboard.
 
   <img
     src="assets/Controller.png"
@@ -165,11 +241,10 @@ Now you can play with the meArm.
     height="300px" 
   />
 
-You can use the keyboard or the gamepad. 
 Once the program is running you can disconnect the monitor.
 If you have a gamepad you can also disconnect the keyboard.
 
-**The gamepad needs to be attached prior to starting the software.**
+Sometimes the gamepad requires a reset. You unplug and replug it before running the python program. The programs are not made to detect automatically a reconnection. Also if you are using a gamepad needs it needs to be attached prior to starting the software.
 
 ## Scoring
 
